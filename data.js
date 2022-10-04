@@ -8,7 +8,7 @@ export const data = [
       "images/webcam/03.jpeg",
       "images/webcam/04.jpeg",
     ],
-    "description": "Webcam Logitech C925e HD 720p com Microfone Integrado",
+    "description": "Webcam Logitech C925e HD 1080p com Microfone Integrado",
   },
   {
     "title": "obsbot tiny 4k",
