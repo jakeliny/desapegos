@@ -1,6 +1,6 @@
 export const data = [
   {
-    "title": "logitech c925e",
+    "title": "logitech C925e",
     "price": "R$ 300,00",
     "images": [
       "images/webcam/01.jpeg",
@@ -8,7 +8,15 @@ export const data = [
       "images/webcam/03.jpeg",
       "images/webcam/04.jpeg",
     ],
-    "description": "Webcam Logitech C270 HD 720p com Microfone Integrado",
+    "description": "Webcam Logitech C925e HD 720p com Microfone Integrado",
+  },
+  {
+    "title": "obsbot tiny 4k",
+    "price": "R$ 2000,00",
+    "images": [
+      "images/obsbot/01.jpg",
+    ],
+    "description": "Webcam obsbot tiny 4k com Microfone Integrado",
   },
   {
     "title": "Poltrona suede",
