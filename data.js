@@ -14,10 +14,10 @@ export const data = [
     "title": "obsbot tiny 4k",
     "price": "R$ 2000,00",
     "images": [
-      "images/obsbot/01.jpg",
-      "images/obsbot/02.jpg",
+      "images/obsbot/01.jpeg",
+      "images/obsbot/02.jpeg",
       "images/obsbot/03.jpg",
-      "images/obsbot/04.jpg",
+      "images/obsbot/04.jpeg",
     ],
     "description": "Webcam obsbot tiny 4k com Microfone Integrado",
   },
