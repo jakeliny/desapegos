@@ -2,7 +2,7 @@
 
 > Produtos semi-novos
 
-Desapego de uma dev, você vai encontrar os melhores itens pelos menores valores!
+Desapego de uma dev, você vai encontrar os melhores itens pelos melhores valores!
 
 
 [🔗Clique Aqui  para acessar](
